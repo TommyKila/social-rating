@@ -124,6 +124,7 @@ h1 {
 
 .name {
     font-weight: 700;
+    margin-bottom: 0.5em;
 }
 
 .comment {
